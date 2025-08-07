@@ -20,3 +20,7 @@ We maintain the session
 
 <img width="526" height="720" alt="image" src="https://github.com/user-attachments/assets/913c9c41-695c-4a81-bcd3-96c29c3040d9" />
 
+We start the steps to create a new Azure Free Account
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/6e2a645d-ea30-41d2-90a6-3d00a2ed95ae" />
+
